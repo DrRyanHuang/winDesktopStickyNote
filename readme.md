@@ -4,13 +4,13 @@ windows10将桌面定制为标签
 
 
 
-![1](D:\git\winDesktopStickyNote\1.jpg)
+![1](./1.jpg)
 
 
 
 
 
-![temp1](D:\git\winDesktopStickyNote\temp1.jpg)
+![temp1](./temp1.jpg)
 
 
 
